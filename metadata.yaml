@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8194
     wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32446#Waldfried--A-Novel
 gutenberg_issued: '2010-05-20'
 gutenberg_type: Text
 identifiers:
