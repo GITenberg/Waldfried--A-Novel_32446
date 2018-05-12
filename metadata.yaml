@@ -1,0 +1,35 @@
+_repo: Waldfried--A-Novel_32446
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stern, Simon Adler
+    birthdate: 1838
+    deathdate: 1904
+    gutenberg_agent_id: '35853'
+    url: http://www.gutenberg.org/2009/agents/35853
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: 'Waldfried: A Novel'
+url: http://www.gutenberg.org/ebooks/32446
